@@ -1,0 +1,5 @@
+ALTER TABLE students ADD COLUMN course_id INT NOT NULL;
+
+ALTER TABLE former_students 
+ADD COLUMN course_id INT NOT NULL AFTER study_year,
+ADD COLUMN created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP;
