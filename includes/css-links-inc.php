@@ -9,7 +9,7 @@
         // Check if it's localhost or production
         if ($host == 'localhost') {
             // Localhost path with project folder
-            return $protocol . $host . '/Eduwide-Carrier-Guide-Line-System-with-LMS/';
+            return $protocol . $host . '/Eduwide-Career-Guideline-System-with-Learning-Support-System/';
         } else {
             // Production base URL
             return $protocol . $host . '/';

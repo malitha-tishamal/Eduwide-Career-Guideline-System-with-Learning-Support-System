@@ -2,7 +2,7 @@
 session_start();
 require_once 'includes/db-conn.php';
 
-if (!isset($_SESSION['former_student_id'])) {
+if (!isset($_SESSION['student_id'])) {
     header("Location: index.php");
     exit();
 }
