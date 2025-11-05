@@ -37,13 +37,6 @@ CREATE TABLE `about` (
 -- Dumping data for table `about`
 --
 
-INSERT INTO `about` (`user_id`, `about_text`) VALUES
-(9, 'test hello.'),
-(14, 'test bio test'),
-(15, 'im malith'),
-(23, 'My name is Dumindu Damsara. I am 24 years old. My mother\'s name is Nilanthi Liyanarachchi and my father\'s name is Nandasiri Jayalath. I studied at MR/ Sri Medhankara maha vidyalaya, Thelijjawila Royal College and Matara Central College. I am studing at HNDIT Galle.'),
-(25, 'ðŸ‘¨â€ðŸ’» | ðŸ‡±ðŸ‡°');
-
 -- --------------------------------------------------------
 
 --
