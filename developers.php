@@ -129,7 +129,7 @@
     <!-- Footer -->
     <div class="dev-footer">
         <p>&copy; Copyright <strong><span>Devlk</span></strong> All Rights Reserved</br>
-       Developed by <a href="https://malithatishamal.42web.io/">Malitha Tishamal</a></p>
+       Developed by <a href="">Devlk Team</a></p>
     </div>
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
